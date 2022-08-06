@@ -61,7 +61,9 @@ Currently I have trained upto 2400 iterations and got descent result. this model
 #### Output parameters  
 
 mAP : 76%
+
 fps on CPU : 1.7fps
+
 Training Time : 2hrs 13 min
 
 ---
