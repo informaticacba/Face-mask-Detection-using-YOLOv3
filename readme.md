@@ -52,16 +52,18 @@ First you should download [Weight](https://drive.google.com/file/d/1-H_DIlCpxvlF
 
 https://user-images.githubusercontent.com/43941329/183263821-332da17f-9c01-47df-bd2d-ab47219bb066.mp4
 
-#### Training Curve
+### Training Curve
 
 Currently I have trained upto 2400 iterations and got descent result. this model can be trained even more. Try training upto 6000 iterations or even more.
 
 ![Training Curve](https://github.com/AnjaanKhadka/Face-mask-Detection-using-YOLOv3/blob/master/images/chart_yolov3.png)
 
-#### Output parameters  
+### Output parameters  
 
 mAP : 76%
+
 fps on CPU : 1.7fps
+
 Training Time : 2hrs 13 min
 
 ---
